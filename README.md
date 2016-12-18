@@ -35,6 +35,28 @@
 
 ## Music
 
+#### Play < yt url or name of song >
+>**Description:** Adds the song to queue of music.
+
+#### Skip
+>**Description:** Votes to skip song.
+
+#### Pause
+>**Description:** Pauses Music.
+
+#### Resume
+>**Description:** Resumes Music.
+
+#### Audioset volume < 1-100 >
+>**Description:** Changes volume of music.
+
+#### Playlist list
+>**Description:** Lists all the servers saved playlists.
+
+#### Playlist < playlist name>
+>**Description:** Adds playlist to the music queue.
+
+
 ## Pokemon Revolution
 
 ### General
