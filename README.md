@@ -114,7 +114,7 @@ Warning: 'Not all commands are updated and some commands may do the same thing'
 #### Integer
 >**Description:** Integer's Boss Team.
 
-## Misc
+## Additional Commands
 
 #### Jc
 >**Description:** And His Name Is...  
