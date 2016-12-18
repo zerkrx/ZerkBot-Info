@@ -14,7 +14,7 @@
     - [General](#general)
     - [Ev Commands](#ev)
     - [Bosses](#bosses)
-  - [Misc](#additional-commands)
+  - [Additional Commands](#additional-commands)
   
   
 - [ZerkScape Bot](#zerkscape-bot)
