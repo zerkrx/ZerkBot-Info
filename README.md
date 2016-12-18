@@ -9,7 +9,14 @@
 ---
 
 # Table Of Contents
-- [ZerkScape Bot](#ZerkScape-Bot)
+- [ZerkBot](#zerkbot)
+  - [Music Commands](#music)
+  - [Pokemon Revolution](#pokemon-revolution)
+    - [General](#general)
+    - [Ev Commands](#ev)
+    - [Bosses](#bosses)
+  - [Misc](#additional-commands)
+- [ZerkScape Bot](#zerkscape-bot)
   - [General Commands](#general-commands)
     - [Chat Bot Info](#chat-bot-info)
     - [Misc](#misc)
@@ -22,12 +29,24 @@
     - [Repeatables](#repeatables)
     - [User Info](#user-info-1)
   
-    
+  
+## Zerkbot
+>**Prefix:** '/'
+
+## Music
+
+## Pokemon Revolution
+
+### General
+
+### Ev
+
+### Bosses
+
+## Misc
+  
 ## ZerkScape Bot
-**Key** | **Info**
------------- | -------------
-**Usage Parameters** | `<required> [optional]`
-**Aliases** | `!(command|alias)`
+>**Prefix:** '!'
 
 ## General Commands
 
