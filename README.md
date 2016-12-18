@@ -1,6 +1,5 @@
 <div align="center">
 <p><img src="http://i.imgur.com/vYMUdFz.png" /></p>
-<p>Command Info For Zerkbot, the Discord Chat-Bot For All But Forgotten</p>
 </div>
 
 
@@ -16,6 +15,8 @@
     - [Ev Commands](#ev)
     - [Bosses](#bosses)
   - [Misc](#additional-commands)
+  
+  
 - [ZerkScape Bot](#zerkscape-bot)
   - [General Commands](#general-commands)
     - [Chat Bot Info](#chat-bot-info)
@@ -58,15 +59,70 @@
 
 
 ## Pokemon Revolution
-
+Warning: 'Not all commands are updated and some commands may do the same thing'
 ### General
+>**Command Usage:** '/poke <command>'
+
+#### Gyms
+>**Description:** Displays a link to a Kanto & Johto Gym/E4 Guide.
+
+#### Kanto
+>**Description:** Displays a link to a Kanto Walkthrough.
+
+#### Johto
+>**Description:** Displays a link to a Johto Walkthrough.
+
+#### Tm
+>**Description:** Displays a link for all Tm Locations.
+
+#### Items
+>**Description:** Displays a link to Item Locations.
+
+#### Spawns
+>**Description:** Displays a link to Pokemon/Item Spawns.
+
+#### Candy
+>**Description:** Displays A link to All Hidden Items.
+
+#### Time
+>**Description:** Tells the poke time rotation.
+
+#### Status
+>**Description:** Link to forum/server status.
 
 ### Ev
+>**Command Usage** '/ev <command>'
+
+#### Chart
+>**Description:** Pokemon Ev Yields.
+
+#### Berries
+>**Description:** List of Ev Berries And Effects.
+
+#### Train
+>**Description:** List of good ev locations.
 
 ### Bosses
+>**Command Usage** '/boss <command>'
+
+#### Maxie
+>**Description:** Maxie's Boss Team.
+
+#### Archie
+>**Description:** Archie's Boss Team.
+
+#### Integer
+>**Description:** Integer's Boss Team.
 
 ## Misc
-  
+
+#### Jc
+>**Description:** And His Name Is...  
+
+#### Dil
+>**Description:** Something Special :).
+
+
 ## ZerkScape Bot
 >**Prefix:** '!'
 
