@@ -9,7 +9,7 @@
 ---
 
 # Table Of Contents
-- [ZerkScape Bot] (#ZerkScape-Bot)
+- [ZerkScape Bot](#ZerkScape-Bot)
   - [General Commands](#general-commands)
     - [Chat Bot Info](#chat-bot-info)
     - [Misc](#misc)
@@ -23,7 +23,7 @@
     - [User Info](#user-info-1)
   
     
-## ZerkScape Bot 
+## ZerkScape Bot
 **Key** | **Info**
 ------------ | -------------
 **Usage Parameters** | `<required> [optional]`
